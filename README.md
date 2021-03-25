@@ -24,7 +24,7 @@ Desafios da digitalinnovation one
                 <td align="center">1</td>
                 <td>Ordenando Números Pares e Ímpares</td>
                 <td><a href="">Código</a></td>
-                <td align="center">✔️</td>
+                <td align="center">❌</td>
             </tr>            
         </table>
         <!-- Resolvendo Algoritmos com Java -->
@@ -45,7 +45,7 @@ Desafios da digitalinnovation one
                 <td align="center">2</td>
                 <td>Abreviando Posts do Blog</td>
                 <td><a href="https://github.com/Josesmar/Desafios-DIO/blob/AbreviacaoPalavraBlog/AbreviaPalavra/src/main/java/AbreviaPalavra.java">Código</a></td>
-                <td align="center">✔️</td>
+                <td align="center">✔</td>
             </tr>
         </table>
         <!-- Solução de Problemas Básicos em Java -->
@@ -66,13 +66,13 @@ Desafios da digitalinnovation one
                 <td align="center">1</td>
                 <td>Calculadora</td>
                 <td><a href="">Código</a></td>
-                <td align="center">✔️</td>
+                <td align="center">❌</td>
             </tr>
             <tr>
                 <td align="center">2</td>
                 <td>Idade em Dias</td>
                 <td><a href="">Código</a></td>
-                <td align="center">✔️</td>
+                <td align="center">❌</td>
             </tr>          
         </table>
     </div>
