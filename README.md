@@ -64,13 +64,13 @@
             <tr>
                 <td align="center">1</td>
                 <td>Calculadora</td>
-                <td><a href="">Código</a></td>
-                <td align="center">❌</td>
+                <td><a href="">"https://github.com/Josesmar/desafios-DIO/blob/Calculadora/calculadora/src/main/java/Calculadora.java"</a></td>
+                <td align="center">✔</td>
             </tr>
             <tr>
                 <td align="center">2</td>
                 <td>Idade em Dias</td>
-                <td><a href="">Código</a></td>
+                <td><a href="">Em desenvolvimento</a></td>
                 <td align="center">❌</td>
             </tr>          
         </table>
