@@ -1,5 +1,4 @@
-# Desafios-DIO
-Desafios da digitalinnovation one
+# Desafios da plataforma digitalinnovation.one
 
 <!-- Java -->
 <details>
