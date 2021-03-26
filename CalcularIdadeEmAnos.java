@@ -27,10 +27,10 @@ public class CalcularIdadeEmAnos {
         }
         else
         {
-            if (dataHoje.get(Calendar.MONTH) == dataNascimento.get(Calendar.MONTH) &&
-                    dataHoje.get(Calendar.DAY_OF_MONTH) < dataNascimento.get(Calendar.DAY_OF_MONTH)) {
-                idade--;
-            }
+        if (dataHoje.get(Calendar.MONTH) == dataNascimento.get(Calendar.MONTH) &&
+           dataHoje.get(Calendar.DAY_OF_MONTH) < dataNascimento.get(Calendar.DAY_OF_MONTH)) {
+           idade--;
+        }
         }
         return idade;
     }
