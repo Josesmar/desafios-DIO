@@ -64,13 +64,13 @@
             <tr>
                 <td align="center">1</td>
                 <td>Calculadora</td>
-                <td><a href="https://github.com/Josesmar/desafios-DIO/blob/Calculadora/calculadora/src/main/java/Calculadora.java">Codigo</a></td>
+                <td><a href="https://github.com/Josesmar/desafios-DIO/blob/Calculadora/calculadora/src/main/java/Calculadora.java">Código</a></td>
                 <td align="center">✔</td>
             </tr>
             <tr>
                 <td align="center">2</td>
                 <td>Idade em Dias</td>
-                <td><a href="https://github.com/Josesmar/desafios-DIO/blob/main/CalcularIdadeEmAnos.java">Em desenvolvimento</a></td>
+                <td><a href="https://github.com/Josesmar/desafios-DIO/blob/main/CalcularIdadeEmAnos.java">Código</a></td>
                 <td align="center">✔</td>
             </tr>          
         </table>
