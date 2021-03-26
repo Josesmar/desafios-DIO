@@ -70,8 +70,8 @@
             <tr>
                 <td align="center">2</td>
                 <td>Idade em Dias</td>
-                <td><a href="">Em desenvolvimento</a></td>
-                <td align="center">❌</td>
+                <td><a href="https://github.com/Josesmar/desafios-DIO/blob/main/CalcularIdadeEmAnos.java">Em desenvolvimento</a></td>
+                <td align="center">✔</td>
             </tr>          
         </table>
     </div>
