@@ -46,6 +46,12 @@
                 <td><a href="https://github.com/Josesmar/Desafios-DIO/blob/AbreviacaoPalavraBlog/AbreviaPalavra/src/main/java/AbreviaPalavra.java">Código</a></td>
                 <td align="center">✔</td>
             </tr>
+            <tr>
+                <td align="center">2</td>
+                <td>Conjuntos bons ou ruins</td>
+                <td><a href="https://github.com/Josesmar/desafios-DIO/blob/conjuntos_bons_ou_ruins/conjuntosBonsOuRuins/src/main/java/ConjuntoBomOuRuin.java">Código</a></td>
+                <td align="center">✔</td>
+            </tr>            
         </table>
         <!-- Solução de Problemas Básicos em Java -->
         <table border=1>
