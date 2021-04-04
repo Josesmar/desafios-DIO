@@ -59,6 +59,12 @@
                 <td align="center">✔</td>
             </tr>   
             <tr>
+                <td align="center">4</td>
+                <td>Entrevista embaraçosa</td>
+                <td><a href="https://github.com/Josesmar/desafios-DIO/blob/tamanho_subString_maior/EncontreMaiorSubString/src/main/java/TamanhoSubString.java">Código</a></td>
+                <td align="center">✔</td>
+            </tr>             
+            <tr>
                 <td align="center">4<td>
                 <td>Entrevista embaraçosa</td>
                 <td><a href="https://github.com/Josesmar/desafios-DIO/blob/Entrevista_embaracosa/EncontreMaiorSubString/src/main/java/EntrevistaEmbaracosa.java">Código</a></td>
