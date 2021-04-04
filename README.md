@@ -41,7 +41,7 @@
                 <th>Status</th>
             </tr>
             <tr>
-                <td align="center">2</td>
+                <td align="center">1</td>
                 <td>Abreviando Posts do Blog</td>
                 <td><a href="https://github.com/Josesmar/Desafios-DIO/blob/AbreviacaoPalavraBlog/AbreviaPalavra/src/main/java/AbreviaPalavra.java">Código</a></td>
                 <td align="center">✔</td>
@@ -53,13 +53,13 @@
                 <td align="center">✔</td>
             </tr>  
             <tr>
-                <td align="center">2</td>
+                <td align="center">3</td>
                 <td>Encontre a maior substring</td>
                 <td><a href="https://github.com/Josesmar/desafios-DIO/blob/tamanho_subString_maior/EncontreMaiorSubString/src/main/java/TamanhoSubString.java">Código</a></td>
                 <td align="center">✔</td>
             </tr>   
             <tr>
-                <td> align="center">2<td>
+                <td align="center">4<td>
                 <td>Entrevista embaraçosa</td>
                 <td><a href="https://github.com/Josesmar/desafios-DIO/blob/Entrevista_embaracosa/EncontreMaiorSubString/src/main/java/EntrevistaEmbaracosa.java">Código</a></td>
                 <td align="center">✔</td>
