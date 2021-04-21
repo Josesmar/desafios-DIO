@@ -29,7 +29,7 @@
         <!-- Resolvendo Algoritmos com Java -->
         <table border=1>
             <tr>
-                <th colspan="4">Resolvendo Algoritmos com Java</th>
+                <th colspan="4">Praticando programação em Java</th>
             </tr>
             <tr>
                 <th colspan="4"></th>
@@ -64,6 +64,12 @@
                 <td><a href="https://github.com/Josesmar/desafios-DIO/blob/tamanho_subString_maior/EncontreMaiorSubString/src/main/java/TamanhoSubString.java">Código</a></td>
                 <td align="center">✔</td>
             </tr>                  
+            <tr>
+                <td align="center">4</td>
+                <td>Validador de senhas com requisitos</td>
+                <td><a href="https://github.com/Josesmar/desafios-DIO/blob/validadorSenhaComRequisitos/ValidadorSenhaComRequisitos/src/main/java/ValidaSenhaComRequisitos.java">Código</a></td>
+                <td align="center">✔</td>
+            </tr>                                          
         </table>
         <!-- Solução de Problemas Básicos em Java -->
         <table border=1>
