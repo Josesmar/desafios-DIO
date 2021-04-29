@@ -8,7 +8,7 @@
         <!-- Iniciando a programação em Java -->
         <table border=1>
             <tr>
-                <th colspan="4">Exibindo Números Pares</th>
+                <th colspan="4">Iniciando a programação em Java</th>
             </tr>
             <tr>
                 <th colspan="4"></th>
