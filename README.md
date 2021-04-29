@@ -5,7 +5,7 @@
     <summary><strong>Java</strong></summary>
     <br />
     <div align="left">
-        <!-- Ordenação e Filtros em Java -->
+        <!-- Iniciando a programação em Java -->
         <table border=1>
             <tr>
                 <th colspan="4">Ordenação e Filtros em Java</th>
@@ -26,6 +26,27 @@
                 <td align="center">❌</td>
             </tr>            
         </table>
+       <!-- Ordenação e Filtros em Java -->
+        <table border=1>
+            <tr>
+                <th colspan="4">Ordenação e Filtros em Java</th>
+            </tr>
+            <tr>
+                <th colspan="4"></th>
+            </tr>
+            <tr>
+                <th>Etapa</th>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td align="center">1</td>
+                <td>Ordenando Números Pares e Ímpares</td>
+                <td><a href="">Código</a></td>
+                <td align="center">❌</td>
+            </tr>            
+        </table>        
         <!-- Resolvendo Algoritmos com Java -->
         <table border=1>
             <tr>
