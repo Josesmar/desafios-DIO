@@ -8,7 +8,7 @@
         <!-- Iniciando a programação em Java -->
         <table border=1>
             <tr>
-                <th colspan="4">Ordenação e Filtros em Java</th>
+                <th colspan="4">Exibindo Números Pares</th>
             </tr>
             <tr>
                 <th colspan="4"></th>
@@ -22,9 +22,21 @@
             <tr>
                 <td align="center">1</td>
                 <td>Ordenando Números Pares e Ímpares</td>
-                <td><a href="">Código</a></td>
-                <td align="center">❌</td>
-            </tr>            
+                <td><a href="https://github.com/Josesmar/desafios-DIO/blob/exibindo_numeros_pares/ExibindoNumerosPares.java">Código</a></td>
+                <td align="center">✔</td>
+            </tr>   
+            <tr>
+                <td align="center">2</td>
+                <td>Entrada e Saída CPF</td>
+                <td><a href="https://github.com/Josesmar/desafios-DIO/blob/EntradaSaidaCPF/EntradaSaidaCPF.java">Código</a></td>
+                <td alig="center">✔</td>
+            </tr>              
+            <tr>
+                <td align="center">3</td>
+                <td>DDD</td>
+                <td><a href="https://github.com/Josesmar/desafios-DIO/blob/DDD/DDD.java">Código</a></td>
+                <td alig="center">✔</td>
+            </tr>                          
         </table>
        <!-- Ordenação e Filtros em Java -->
         <table border=1>
