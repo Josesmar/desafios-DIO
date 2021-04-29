@@ -29,13 +29,13 @@
                 <td align="center">2</td>
                 <td>Entrada e Saída CPF</td>
                 <td><a href="https://github.com/Josesmar/desafios-DIO/blob/EntradaSaidaCPF/EntradaSaidaCPF.java">Código</a></td>
-                <td alig="center">✔</td>
+                <td align="center">✔</td>
             </tr>              
             <tr>
                 <td align="center">3</td>
                 <td>DDD</td>
                 <td><a href="https://github.com/Josesmar/desafios-DIO/blob/DDD/DDD.java">Código</a></td>
-                <td alig="center">✔</td>
+                <td align="center">✔</td>                
             </tr>                          
         </table>
        <!-- Ordenação e Filtros em Java -->
