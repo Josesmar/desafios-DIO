@@ -100,3 +100,6 @@
         </table>
     </div>
 </details>
+<!--JavaScirpt-->
+<details>
+</details>
