@@ -102,4 +102,8 @@
 </details>
 <!--JavaScirpt-->
 <details>
+ <summary><strong>Java Script</strong></summary>    
+</details>
+<details>
+ <summary><strong>Pyton</strong></summary>    
 </details>
