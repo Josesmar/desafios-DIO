@@ -100,9 +100,34 @@
         </table>
     </div>
 </details>
+
+
 <!--JavaScirpt-->
 <details>
  <summary><strong>Java Script</strong></summary>    
+    <br />
+    <div align="left">
+        <!-- Quantidade de números positivos -->
+        <table border=1>
+            <tr>
+                <th colspan="4">Fundamentos Aritméticos em JavaScript</th>
+            </tr>
+            <tr>
+                <th colspan="4"></th>
+            </tr>
+            <tr>
+                <th>Etapa</th>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td align="center">1</td>
+                <td>Quantidade de números positivos</td>
+                <td><a href="https://github.com/Josesmar/javaScript/blob/main/js/quantidadeNumeroPositivos.js">Código</a></td>
+                <td align="center">✔</td>
+            </tr>            
+        </table>    
 </details>
 <details>
  <summary><strong>Pyton</strong></summary>    
