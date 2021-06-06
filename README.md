@@ -127,7 +127,13 @@
                 <td><a href="https://github.com/Josesmar/javaScript/blob/main/js/quantidadeNumeroPositivos.js">Código</a></td>
                 <td align="center">✔</td>
             </tr>            
-        </table>    
+            <tr>
+                <td align="center">2</td>
+                <td>Exibindo Números Pares</td>
+                <td><a href="https://github.com/Josesmar/javaScript/blob/main/js/exibindoNumerosPares.js">Código</a></td>
+                <td align="center">✔</td>
+            </tr>    
+        </table>            
 </details>
 <details>
  <summary><strong>Pyton</strong></summary>    
