@@ -133,6 +133,12 @@
                 <td><a href="https://github.com/Josesmar/javaScript/blob/main/js/exibindoNumerosPares.js">Código</a></td>
                 <td align="center">✔</td>
             </tr>    
+            <tr>
+                <td align="center">3</td>
+                <td>Análise de números</td>
+                <td><a href"https://github.com/Josesmar/javaScript/blob/analise-numeros/js/analiseNumeros.js">Código</a></td>
+                <td align="center">✔</td>
+            </tr>
         </table>            
 </details>
 <details>
