@@ -139,6 +139,12 @@
                 <td><a href="https://github.com/Josesmar/javaScript/blob/analise-numeros/js/analiseNumeros.js">Código</a></td>                
                 <td align="center">✔</td>
             </tr>
+            <tr>
+                <td align="center">4</td>
+                <td>Contagem de cédulas</td>
+                <td><a href="https://github.com/Josesmar/javaScript/blob/contagem_cedulas/js/contagemCedulas.js">Código</a></td>
+                <td align="center">✔</td>
+            </tr>
         </table>            
 </details>
 <details>
