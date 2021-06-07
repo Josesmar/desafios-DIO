@@ -147,7 +147,7 @@
             </tr>
             <tr>
                 <td align="center">4</td>
-                <td>Contagem de cédulas</td>
+                <td>Consumo Médio do Automóvel</td>
                 <td><a href="https://github.com/Josesmar/javaScript/blob/main/js/consumoMedioAutomovel.js">Código</a></td>
                 <td align="center">✔</td>
             </tr>         
