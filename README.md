@@ -26,7 +26,7 @@
                 <td align="center">✔</td>
             </tr>  
             <tr>
-                <td align="center">1</td>
+                <td align="center">2</td>
                 <td>Compras no Supermercado</td>
                 <td><a href="https://github.com/Josesmar/desafios-DIO/blob/main/ComprasSupermercado.java">Código</a></td>
                 <td align="center">✔</td>
