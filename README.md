@@ -22,13 +22,13 @@
             <tr>
                 <td align="center">1</td>
                 <td>Visita na Feira</td>
-                <td><a href="https://github.com/Josesmar/desafios-DIO/blob/Calculadora/calculadora/src/main/java/visitaFeira.java">Código</a></td>
+                <td><a href="https://github.com/Josesmar/desafios-DIO/blob/Calculadora/calculadora/src/main/java/VisitaFeira.java">Código</a></td>
                 <td align="center">✔</td>
             </tr>
             <tr>
                 <td align="center">2</td>
                 <td>Seis Números Ímparess</td>
-                <td><a href="https://github.com/Josesmar/desafios-DIO/blob/main/seisNumerosImapres.java">Código</a></td>
+                <td><a href="https://github.com/Josesmar/desafios-DIO/blob/main/SeisNumerosImapres.java">Código</a></td>
                 <td align="center">✔</td>
             </tr>          
         </table>      
