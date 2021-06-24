@@ -30,7 +30,13 @@
                 <td>Seis Números Ímparess</td>
                 <td><a href="https://github.com/Josesmar/desafios-DIO/blob/main/SeisNumerosImpares.java">Código</a></td>
                 <td align="center">✔</td>
-            </tr>          
+            </tr>
+            <tr>
+                <td align="center">3</td>
+                <td>Quantidade de Números Positivos</td>
+                <td><a href="https://github.com/Josesmar/desafios-DIO/blob/main/QuantidadeNumerosPositivos.java">Código</a></td>
+                <td align="center">✔</td>
+            </tr>            
         </table>      
         <!-- Ordenação e Filtros em Java -->
         <table border=1>
