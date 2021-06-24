@@ -28,7 +28,7 @@
             <tr>
                 <td align="center">2</td>
                 <td>Seis Números Ímparess</td>
-                <td><a href="https://github.com/Josesmar/desafios-DIO/blob/main/SeisNumerosImapres.java">Código</a></td>
+                <td><a href="https://github.com/Josesmar/desafios-DIO/blob/main/SeisNumerosImpares.java">Código</a></td>
                 <td align="center">✔</td>
             </tr>          
         </table>      
