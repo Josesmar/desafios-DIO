@@ -5,6 +5,33 @@
     <summary><strong>Java</strong></summary>
     <br />
     <div align="left">
+        <!-- Primeiros passos com java -->
+        <table border=1>
+            <tr>
+                <th colspan="4">Primeriros passos com java</th>
+            </tr>
+            <tr>
+                <th colspan="4"></th>
+            </tr>
+            <tr>
+                <th>Etapa</th>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td align="center">1</td>
+                <td>Visita na Feira</td>
+                <td><a href="https://github.com/Josesmar/desafios-DIO/blob/Calculadora/calculadora/src/main/java/visitaFeira.java">Código</a></td>
+                <td align="center">✔</td>
+            </tr>
+            <tr>
+                <td align="center">2</td>
+                <td>Seis Números Ímparess</td>
+                <td><a href="https://github.com/Josesmar/desafios-DIO/blob/main/seisNumerosImapres.java">Código</a></td>
+                <td align="center">✔</td>
+            </tr>          
+        </table>      
         <!-- Ordenação e Filtros em Java -->
         <table border=1>
             <tr>
@@ -103,7 +130,7 @@
                 <td><a href="https://github.com/Josesmar/desafios-DIO/blob/main/CalcularIdadeEmAnos.java">Código</a></td>
                 <td align="center">✔</td>
             </tr>          
-        </table>
+        </table>     
     </div>
 </details>
 
