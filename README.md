@@ -137,7 +137,11 @@
                 <td align="center">✔</td>
             </tr>          
         </table>     
+        <!--Desafios numéricos em Java-->
         <table border = 1>
+            <tr>
+                <th colspan="4">Desafios numéricos em Java</th>
+            </tr>
             </table>
     </div>
 </details>
