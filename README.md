@@ -144,7 +144,31 @@
             </tr>
             <tr>
                 <th colspan="4"></th>
-            </tr>            
+            </tr>    
+            <tr>
+                <th>Etapa</th>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>  
+            <tr>
+                <td align="center">1</td>
+                <td>Análise de números</td>
+                <td><a href="">Código</a></td>
+                <td align="center">✔</td>
+            </tr>  
+            <tr>
+                <td align="center">1</td>
+                <td>Folha de pagamento</td>
+                <td><a href="">Código</a></td>
+                <td align="center">✔</td>
+            </tr>  
+            <tr>
+                <td align="center">1</td>
+                <td>Contagem de cédulas</td>
+                <td><a href="">Código</a></td>
+                <td align="center">✔</td>
+            </tr>              
             </table>
     </div>
 </details>
