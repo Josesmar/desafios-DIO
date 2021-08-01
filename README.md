@@ -154,7 +154,7 @@
             <tr>
                 <td align="center">1</td>
                 <td>Análise de números</td>
-                <td><a href="">Código</a></td>
+                <td><a href="https://github.com/Josesmar/desafios-DIO/blob/analise-numeros/AnaliseNumeros.java">Código</a></td>
                 <td align="center">✔</td>
             </tr>  
             <tr>
