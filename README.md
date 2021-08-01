@@ -142,6 +142,9 @@
             <tr>
                 <th colspan="4">Desafios numéricos em Java</th>
             </tr>
+            <tr>
+                <th colspan="4"></th>
+            </tr>            
             </table>
     </div>
 </details>
