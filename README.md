@@ -158,13 +158,13 @@
                 <td align="center">✔</td>
             </tr>  
             <tr>
-                <td align="center">1</td>
+                <td align="center">2</td>
                 <td>Folha de pagamento</td>
                 <td><a href="">Código</a></td>
                 <td align="center">✔</td>
             </tr>  
             <tr>
-                <td align="center">1</td>
+                <td align="center">3</td>
                 <td>Contagem de cédulas</td>
                 <td><a href="">Código</a></td>
                 <td align="center">✔</td>
