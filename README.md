@@ -170,6 +170,28 @@
                 <td align="center">✔</td>
             </tr>              
             </table>
+        <!--Solucionando desafios em java-->
+        <table border = 1>
+            <tr>
+                <th colspan="4"Solucionando Desafios em Java</th>
+                </tr>
+            <tr>
+                <th colspan="4"></th>
+            </tr>    
+            <tr>
+                <th>Etapa</th>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>     
+            <tr>
+                <td align="center">1</td>
+                <td>Área do Circulo</td>
+                <td><a href="https://github.com/Josesmar/desafios-DIO/blob/main/AreaCirculo.java">Código</a></td>
+                <td align="center">✔</td>
+            </tr>            
+        </table>
+        
     </div>
 </details>
 
