@@ -189,6 +189,18 @@
                 <td>Área do Circulo</td>
                 <td><a href="https://github.com/Josesmar/desafios-DIO/blob/main/AreaCirculo.java">Código</a></td>
                 <td align="center">✔</td>
+            </tr>
+            <tr>
+                <td align="center">2</td>
+                <td>Média 3</td>
+                <td><a href="https://github.com/Josesmar/desafios-DIO/blob/main/MediaNotaAluno.java">Código</a></td>
+                <td align="center">✔</td>
+            </tr>
+            <tr>
+                <td align="center">3</td>
+                <td>Corrida de tartarugas</td>
+                <td><a href="https://github.com/Josesmar/desafios-DIO/blob/main/CorridaTartarugas.java">Código</a></td>
+                <td align="center">✔</td>
             </tr>            
         </table>
         
