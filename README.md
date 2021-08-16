@@ -201,7 +201,19 @@
                 <td>Corrida de tartarugas</td>
                 <td><a href="https://github.com/Josesmar/desafios-DIO/blob/main/CorridaTartarugas.java">Código</a></td>
                 <td align="center">✔</td>
-            </tr>            
+            </tr>     
+            <tr>
+                <td align="center">4</td>
+                <td>Combinação de strings</td>
+                <td><a href="https://github.com/Josesmar/desafios-DIO/blob/main/CombinacaoString.java">Código</a></td>
+                <td align="center">✔</td>
+            </tr>  
+            <tr>
+                <td align="center">5</td>
+                <td>Encaixa ou não</td>
+                <td><a href="https://github.com/Josesmar/desafios-DIO/blob/main/CorridaTartarugas.java">Código</a></td>
+                <td align="center">✔</td>
+            </tr>              
         </table>
         
     </div>
